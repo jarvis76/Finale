@@ -3,6 +3,7 @@
 require_once 'connect.php';
 
 $order = '';
+
 echo "<pre>";
 $errors = array();
 echo "</pre>";
@@ -143,8 +144,8 @@ $queryUsers = $db->prepare('SELECT * FROM users'.$order);
                     </thead>
                     <tbody>
 
-
                     <?php foreach($users as $user)?>
+
                     <tr>
 					    <td><?php echo $user['gender'];?>
                         </td>
