@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="203754d9-6832-4ce3-b90c-a450e9a86432" name="FinaleEval" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\wamp64\www\FinaleEval" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
