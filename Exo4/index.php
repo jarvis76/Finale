@@ -46,7 +46,7 @@ echo "</pre>";*/
     <table class="table">
         <thead>
         <tr>
-            <th>Nom<</th>
+            <th>Nom</th>
             <th>Âge</th>
             <th>Couleur</th>
             <th>Sexe</th>

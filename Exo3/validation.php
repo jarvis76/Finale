@@ -6,3 +6,5 @@ $annee = $_REQUEST['annee'] ?? "";
 $couleur = $_REQUEST['couleur'] ?? "";
 
 logs::logWrite("Bonjour votre véhicule $marque $modele de couleur $couleur de $annee");
+
+
