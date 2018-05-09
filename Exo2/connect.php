@@ -1,3 +1,3 @@
 <?php
 
-$db = new PDO('mysql:host=localhost;dbname=userslist;charset=utf8', 'root', '');
+$db = new PDO('mysql:host=localhost;dbname=exo1_userslist;charset=utf8', 'root', '');
